@@ -4,7 +4,7 @@ CREATE TABLE restaurant (
     description varchar(100),
     rating decimal,
     telephone char(10),
-    hour varchar(100)
+    hours varchar(100)
 );
 
 -- [2]
